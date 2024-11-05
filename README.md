@@ -1,4 +1,4 @@
-# Photographer's Portfolio -https://word.kesug.com/
+# Snapfolio -https://word.kesug.com/
 
 
 This is a photography portfolio website built on WordPress. The site is designed to showcase photography projects with a clean and visually appealing layout. It uses Contact Form 7 for easy communication, Starter Template for quick setup, and Astra Widgets for added functionality and customization.
